@@ -21,6 +21,8 @@ Email: bahster2@outlook.com
 
 [Twitter](https://twitter.com/Bahster1){:target="_blank"}
 
+[YouTube](https://www.youtube.com/channel/UCe0xDK0loGayOfpYw5u68Sw){:target="_blank"}
+
 <br>
 
 ![yakuza](../media/yakuza.gif){:class="img-responsive"}
